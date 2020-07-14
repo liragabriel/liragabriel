@@ -6,6 +6,7 @@
 #### Hey! Whats up? 👋
 👉 <pa href="http://liragabriel.com/">Access my website here<a>
 
-- 🔭 I’m currently working as a Python programmer
+- 🐍 I’m currently working as a Python programmer
 - 🌱 I’m currently learning Vue.js
 - 📫 How to reach me: contact@liragabriel.com
+- 🌎 Access my website: www.liragabriel.com
