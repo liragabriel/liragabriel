@@ -4,7 +4,7 @@
 [![Steam Badge](https://img.shields.io/badge/-Steam-grey?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/liragabriel/)](https://steamcommunity.com/id/liragabriel/)
 
 #### Hey! Whats up? 👋
-<a href="http://liragabriel.com/">Access my website here<a>
+👉 <pa href="http://liragabriel.com/">Access my website here<a>
 
 - 🔭 I’m currently working as a Python programmer
 - 🌱 I’m currently learning Vue.js
