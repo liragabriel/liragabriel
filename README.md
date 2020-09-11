@@ -8,7 +8,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/liragabriels/)](https://www.instagram.com/liragabriels/)
 [![Steam Badge](https://img.shields.io/badge/-Steam-grey?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/liragabriel/)](https://steamcommunity.com/id/liragabriel/)
 
-![](info.png)
+![info photo](https://raw.githubusercontent.com/liragabriel/liragabriel/master/info.png)
 
 </div>
 
