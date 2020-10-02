@@ -1,6 +1,6 @@
 <div align="center">
 
-#### Hey! Whats up? 👋 I'm programmer based in Sumaré, Brazil and I have a degree in computer science.
+#### Hey! Whats up? 👋 I am a programmer and I have a Bachelor's Degree in Computer Science.
 
 #
 
