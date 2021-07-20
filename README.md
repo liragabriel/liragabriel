@@ -5,7 +5,7 @@
 #
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liragabriels/)](https://www.linkedin.com/in/liragabriels/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/liragabriels/)](https://www.instagram.com/liragabriels/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/realgabrieldelira/)](https://www.instagram.com/realgabrieldelira/)
 [![Steam Badge](https://img.shields.io/badge/-Steam-grey?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/liragabriel/)](https://steamcommunity.com/id/liragabriel/)
 
 ![info photo](https://raw.githubusercontent.com/liragabriel/liragabriel/master/info.png)
